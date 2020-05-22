@@ -1,0 +1,65 @@
+body { background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+
+.container {  width: 190px;
+    padding: 10px;
+    margin: 10px;
+    background-color: black;
+    height: 1550px;
+    font-family: Lucida Console, Monaco, monospace;
+    color: honeydew;
+    float: left;
+    font-size: 28px;
+}
+
+.iwi {font-size: 20px;
+    background-color: black;
+    border: none;
+    color: white;
+    width: 190px;
+    text-align: center;
+    font-family: Lucida Console, Monaco, monospace;
+    transition-duration: 0.4s;
+    }
+
+.button:hover{background-color: black;
+            color: #555555;}
+
+.logo {width: 140px;
+    height: 140px;
+    margin: 25px;
+    border: bisque;
+}
+
+.owo { width: 1130px;
+    padding: 10px;
+    background-color: black;
+    margin: 10px;
+    margin-left: 5px;
+    margin-right: 49px;
+    height: 1550px;
+    font-family: Lucida Console, Monaco, monospace ;
+    color: honeydew;
+    float: right;
+    text-align: center;
+    font-size: 20px;
+}
+
+    table, td { border: cornsilk 10px;
+        text-align: center;
+        padding: 20px;
+    }
+
+    th, iframe { text-align: center;
+
+    }
+
+    .uwu {text-align: center;
+        font-family: Lucida Console, Monaco, monospace ;
+        color: honeydew;
+        font-size: 20px;
+    }

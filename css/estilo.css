@@ -1,0 +1,132 @@
+body { background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+
+.container {  width: 190px;
+    padding: 10px;
+    border: 10px green;
+    margin: 10px;
+    background-color: black;
+    height: 1020px;
+    font-family: Lucida Console, Monaco, monospace;
+    color: honeydew;
+    float: left;
+    font-size: 28px;
+}
+
+.iwi {font-size: 20px;
+    background-color: black;
+    border: none;
+    color: white;
+    width: 190px;
+    text-align: center;
+    font-family: Lucida Console, Monaco, monospace;
+    transition-duration: 0.4s;
+    }
+
+.button:hover{background-color: black;
+            color: #555555;}
+
+.logo {width: 140px;
+    height: 140px;
+    margin: 25px;
+    border: bisque;
+}
+
+.presentacion {width: 1130px;
+    padding: 10px;
+    background-color: black;
+    margin: 10px;
+    margin-left: 5px;
+    margin-right: 49px;
+    height: 500px;
+    font-family: Lucida Console, Monaco, monospace ;
+    color: honeydew;
+    float: right;
+    text-align: center;
+    column-count: 2;
+    font-size: 30px;
+    letter-spacing: 3px;
+}
+
+.presentado{ margin: 20px;
+
+}
+
+.computadora {
+    width: 500px;
+    height: 400px;
+    margin: 20px;
+
+}
+
+.uno { background-color: black;
+    height: 500px;
+    width: 370px;
+    position: absolute;
+    margin-left: 265px;
+    margin-top: 550px;
+    margin-bottom: 20px;
+}
+
+.dos {background-color: black;
+    height: 500px;
+    width: 370px;
+    position: absolute;
+    margin-left: 655px;
+    margin-top: 550px;
+    margin-bottom: 20px;
+}
+
+h1 {font-family: -apple-system, BlinkMacSystemFont, 
+    'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+   color: honeydew;
+   text-align: center;
+   font-size: 30px;
+   letter-spacing: 2px;
+}
+
+h3{font-family: -apple-system, BlinkMacSystemFont, 
+    'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+   color: honeydew;
+   text-align: center;
+font-size: 25px;
+margin: 20px;}
+
+.sport{width: 300px;
+    height: 200px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block ;}
+
+.comida{width: 300px;
+    height: 200px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    }
+
+.fps{width: 300px;
+    height: 200px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;}
+
+.tres {background-color: black;
+    height: 500px;
+    width: 370px;
+    position: absolute;
+    margin-left: 1045px;
+    margin-top: 550px;
+    margin-bottom: 20px;
+
+}
